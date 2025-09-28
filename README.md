@@ -33,11 +33,13 @@ The game ends once you hit an obstacle.
 1. Clone the repo:
    ```bash
    git clone https://github.com/yigityasar/zigcar-arcade-game
+   ```
+   
 2. Open it with Unity Hub
     . Developed with Unity 6000.0.25f1.
 
 3. Run the project and hit Play in the Unity editor. 🚀
-    ```
+    
 ---
 
 ## 📦 Third-party Assets
