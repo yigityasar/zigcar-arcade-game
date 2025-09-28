@@ -80,7 +80,7 @@ public class ObstacleSpawner : MonoBehaviour
     private void Update()
     {
         currentScore = Convert.ToInt32(_ScoreText.text);
-        if (currentScore - Score >= 300)
+        if (currentScore - Score >= 1000)
         {
             obstacleRowsPerTile += 5;
             Score = currentScore;
